@@ -7,14 +7,8 @@
 //#define pDHT 4
 #define pLED 18
 
-//const char* ssid = "Capel";
-//const char* password = "14margaridas";
 const char* ssid = "Robotica";
 const char* password = "robotica";
-
-//const char* ssid = "BL02_ALUNOS_INF05";
-//const char* ssid = "CellDEF";
-//const char* password = "dflor1917";
 
 const char* mqttServer = "soldier.cloudmqtt.com";
 const char* mqttID = "minicurso";
